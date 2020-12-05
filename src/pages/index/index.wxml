@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view>
+  <text>{{content}}</text>
+  <text decode>&nbsp;</text>
+  <button bindtap="btn_tap">点击我发送请求</button>
+</view>
